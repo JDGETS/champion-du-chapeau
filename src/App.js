@@ -12,7 +12,7 @@ const champions = [
   
   {
     surnom: "Oleks",
-    name: "Oleksandre Kumenko s",
+    name: "Oleksandre Kumenko",
     startDate: "2025-01-16",
     endDate: "2025-10-16",
     image: "/photos/Oleks1.jpg",
