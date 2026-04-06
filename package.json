@@ -2,6 +2,7 @@
   "name": "champion-du-chapeau",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://JDGETS.github.io/champion-du-chapeau",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
@@ -9,11 +10,14 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^4.2.4"
   },
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
