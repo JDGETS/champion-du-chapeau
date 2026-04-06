@@ -2,7 +2,7 @@
   "name": "champion-du-chapeau",
   "version": "0.1.0",
   "private": true,
-  "homepage": "championduchapeau.jdgets.com",
+  "homepage": "https://championduchapeau.jdgets.com",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
